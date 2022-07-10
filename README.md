@@ -1,4 +1,6 @@
-# DecodeFrames-API
+# Decode.js
+
+This module enables the user to put a video file in the source directory, extract frames, turn those frames into binary data, then give an interface for the user to access the frames that are in binary form. 
 
 ### Steps for reproduction
 
